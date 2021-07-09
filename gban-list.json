@@ -155,8 +155,16 @@
         "reason": "Mod source code",
         "dateAdded": "17:00 09/07/2021"
     },
-     "100069865757094": {
+    "100069865757094": {
         "reason": "leak module donate",
         "dateAdded": "17:00 09/07/2021"
-    }
+    },
+    "100070443133477": {
+        "reason": "Quấy rối người dùng bằng cách bật antiout",
+        "dateAdded": "01:10 10/07/2021"
+    },
+    "100055381189200": {
+        "reason": "Quấy rối người dùng bằng cách bật antiout",
+        "dateAdded": "01:10 10/07/2021"
+    },
 }
